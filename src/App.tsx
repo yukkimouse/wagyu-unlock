@@ -53,7 +53,7 @@ function App() {
         <div className="glass-panel profile-panel reveal hover-lift">
           <div className="profile-grid">
             <div className="profile-image-container">
-              <img src="/shintani.png" alt="Master Chef Noriyuki Shintani" className="profile-image" />
+              <img src="https://drive.google.com/uc?export=view&id=1NgXkRiD4gUzry5FWXmacpG76E0JOZO-s" alt="Master Chef Noriyuki Shintani" className="profile-image" />
             </div>
             <div className="profile-content text-left">
               <h2 className="section-title text-gold" style={{ marginBottom: "1rem" }}>The Master Architect</h2>
@@ -112,23 +112,23 @@ function App() {
         </div>
       </section>
 
-      {/* 5. The Logic of Wealth (Business Logic) */}
+      {/* 5. Global Trust & Standard (Business Logic) */}
       <section className="business-logic-section section container text-center">
-        <h2 className="section-title text-gold reveal">The Logic of Wealth</h2>
-        <p className="lead-text reveal delay-200">月間200万〜1,000万規模の利益、そして年収1億へとスケールする現実的なロードマップ。</p>
+        <h2 className="section-title text-gold reveal">Global Standard & Trust</h2>
+        <p className="lead-text reveal delay-200">The uncompromising Japanese purity, delivered globally with absolute traceability and strict certification.</p>
 
         <div className="logic-grid reveal delay-300 mt-4">
           <div className="logic-card glass-panel hover-lift">
+            <h3 className="serif text-gold">Absolute Traceability</h3>
+            <p>From the legendary farms in Japan to your distinguished establishment. Total transparency guaranteed in every cut.</p>
+          </div>
+          <div className="logic-card glass-panel hover-lift">
+            <h3 className="serif text-gold">Certified Excellence</h3>
+            <p>Adhering to the strictest global export standards and hygiene protocols. We deliver pure, untainted perfection.</p>
+          </div>
+          <div className="logic-card glass-panel hover-lift">
             <h3 className="serif text-gold">Direct Connection</h3>
-            <p>生産者と海外ディストリビューターを直結（ダイレクト・コネクト）。中間費用をゼロへ。</p>
-          </div>
-          <div className="logic-card glass-panel hover-lift">
-            <h3 className="serif text-gold">Spec-Sales System</h3>
-            <p>「スペック販売」×「自社店舗消化」による、一頭買いリスク0の完全無欠システム。</p>
-          </div>
-          <div className="logic-card glass-panel hover-lift">
-            <h3 className="serif text-gold">Monthly Scalability</h3>
-            <p>月間30〜50頭のハンドリング能力を証明。圧倒的スケーリング。</p>
+            <p>Eliminate intermediaries. Connect directly with the absolute source for unmatched quality control and partnership.</p>
           </div>
         </div>
       </section>
